@@ -1,5 +1,3 @@
-# ocr-and-tts
-This describes how a hand-written text can be processed and converted into text and get speech output from it.
 [![HitCount](http://hits.dwyl.io/ro6ley/python-ocr-example.svg)](http://hits.dwyl.io/ro6ley/python-ocr-example)
 
 # PyTesseract - Simple Python Optical Character Recognition
